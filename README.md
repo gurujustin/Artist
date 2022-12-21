@@ -1,2 +1,2 @@
 # Artist
- aritst
+ Laravel project for artist
